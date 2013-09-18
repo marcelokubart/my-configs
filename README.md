@@ -1,4 +1,4 @@
-my-configs
+My Configurations
 ==========
 
-My Configs
+This repository is intended settings of my applications
